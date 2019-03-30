@@ -27,8 +27,8 @@
 - [명령어](리눅스/commands.md)
 
 ## macOS
-- [버전] (Mac/distributions.md)
-- [디렉토리 구조] (Mac/directory.md)
-- [패키지 매니저] (Mac/package_manager.md)
-- [터미널(Shell)] (Mac/shell.md)
-- [명령어] (Mac/commands.md)
+- [버전](Mac/distributions.md)
+- [디렉토리 구조](Mac/directory.md)
+- [패키지 매니저](Mac/package_manager.md)
+- [터미널(Shell)](Mac/shell.md)
+- [명령어](Mac/commands.md)

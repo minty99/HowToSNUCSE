@@ -26,6 +26,9 @@
 - [터미널/bash](리눅스/bash.md)
 - [명령어](리눅스/commands.md)
 
-## 맥OS
-**기여가 필요합니다!**  
-관심이 있으시다면 풀 리퀘스트를 날려 기여해주세요!
+## macOS
+- [버전] (Mac/distributions.md)
+- [디렉토리 구조] (Mac/directory.md)
+- [패키지 매니저] (Mac/package_manager.md)
+- [터미널(Shell)] (Mac/shell.md)
+- [명령어] (Mac/commands.md)
